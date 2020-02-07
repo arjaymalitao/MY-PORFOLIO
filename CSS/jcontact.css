@@ -1,0 +1,41 @@
+h1{
+    font-size: 50px;
+    color: rgb(6, 13, 37);
+    font-family: verdana;
+}
+
+h5{
+    font-size: 20px;
+    color: rgba(22, 113, 233, 0.5);
+    font-family: verdana;
+    -webkit-text-stroke-color: rgb(90, 3, 83);
+    -webkit-text-stroke-width: 1px;
+}
+
+form{
+    font-size: 20px;
+    color: rgba(144, 177, 247, 0.5);
+    font-family: verdana;
+    -webkit-text-stroke-color: rgb(90, 3, 83);
+    -webkit-text-stroke-width: 1px;
+    margin-bottom: 20px;
+}
+
+.contactstyle{
+    text-align: center;
+    background: radial-gradient(rgba(228, 197, 139, 0.829),rgba(228, 148, 236, 0.5));
+    padding-top: 20px;
+}
+
+footer{
+    text-align: center;
+    background-color: grey;
+    padding: 20px;
+    margin-top: 20px;
+    
+}
+
+
+#home{
+    margin: 20px;
+}
